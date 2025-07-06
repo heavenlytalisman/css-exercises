@@ -1,6 +1,13 @@
-.container .text {
+.container {
     background-color: yellow;
     color: red;
     font-size: 20px;
     text-align: center;
 }
+
+* {
+    outline: 2px solid red;
+    border: 26px transparent;
+    padding: 22px;
+}
+
